@@ -1,0 +1,15 @@
+E:\hello_C#\Examples\Example_sum\bin\Debug\net7.0\Example_sum.exe
+E:\hello_C#\Examples\Example_sum\bin\Debug\net7.0\Example_sum.deps.json
+E:\hello_C#\Examples\Example_sum\bin\Debug\net7.0\Example_sum.runtimeconfig.json
+E:\hello_C#\Examples\Example_sum\bin\Debug\net7.0\Example_sum.dll
+E:\hello_C#\Examples\Example_sum\bin\Debug\net7.0\Example_sum.pdb
+E:\hello_C#\Examples\Example_sum\obj\Debug\net7.0\Example_sum.csproj.AssemblyReference.cache
+E:\hello_C#\Examples\Example_sum\obj\Debug\net7.0\Example_sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\hello_C#\Examples\Example_sum\obj\Debug\net7.0\Example_sum.AssemblyInfoInputs.cache
+E:\hello_C#\Examples\Example_sum\obj\Debug\net7.0\Example_sum.AssemblyInfo.cs
+E:\hello_C#\Examples\Example_sum\obj\Debug\net7.0\Example_sum.csproj.CoreCompileInputs.cache
+E:\hello_C#\Examples\Example_sum\obj\Debug\net7.0\Example_sum.dll
+E:\hello_C#\Examples\Example_sum\obj\Debug\net7.0\refint\Example_sum.dll
+E:\hello_C#\Examples\Example_sum\obj\Debug\net7.0\Example_sum.pdb
+E:\hello_C#\Examples\Example_sum\obj\Debug\net7.0\Example_sum.genruntimeconfig.cache
+E:\hello_C#\Examples\Example_sum\obj\Debug\net7.0\ref\Example_sum.dll
